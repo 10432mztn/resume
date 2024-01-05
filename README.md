@@ -20,23 +20,29 @@
 
 ## 経歴
 
+### 副業：猟師向けSaaS開発企業（2020-10〜現在）
+- Web系エンジニア
+  - 帳票・申請WFの電子化:
+  - 帳票・申請WFの電子化、インフラ・言語のバージョンアップ対応など
+  - 技術： Rails, JQuery, PostgreSQL, Heroku, Bootstrap
+
 ### 生命保険系SIer（2014-04〜現在）
-- ホールセール領域の業務システム開発（2014-04〜2020-03）
-  - 保険金支払ワークフローシステム開発に従事
-    - 技術：VB.Net, SQLServer
 
 - 新規事業の企画、先端技術のリサーチ/検証（PoC）(2020-04〜現在) 
   - AI・自然言語処理領域の業務適用の検証
     - BERTを用いたQAアプリケーション、LangChainを用いたQAアプリケーション/要約システムの構築
-    - 技術：Flask, ElasticSearch, BERT, Streamlit, Azure Cognitive Search, LangChain
+    - 技術： Flask, ElasticSearch, BERT, Streamlit, Azure Cognitive Search, LangChain
 
   - 事業企画のためのMVBの構築（CTO）
-    - 技術：Vue.js, Azure Functions (Node.js), CosmosDB, Firebase
+    - 技術： Vue.js, Azure Functions (Node.js), CosmosDB, Firebase
 
-### 副業：猟師向けSaaS開発企業（2020-10〜現在）
-- Web系エンジニア
-  - 帳票・申請WFの電子化、インフラ・言語のバージョンアップ対応など
-  - 技術：Rails, JQuery, PostgreSQL, Heroku, Bootstrap
+- ホールセール領域の業務システム開発（2014-04〜2020-03）
+  - 保険金支払ワークフローシステム開発に従事
+    - 技術： VB.Net, SQLServer
+
+### XX大学YY学部（2010-04〜2014-03）
+### XX高校（2007-04〜2010-03）
+
 
 ## スキル
 
@@ -63,7 +69,7 @@
 - SQLServer
 
 ### クラウドとインフラ
-- Azure: Virtual Machines, App Service, Database, Blob Storage, Cognitive Search
+- Azure: Virtual Machines, App Service, Database, Functions (Node.js), Blob Storage, Cognitive Search
 - デプロイメントとCI/CD: Heroku, Netlify
 - コンテナ技術: Docker
 
@@ -79,12 +85,19 @@
 - Jira, Trello
 - Miro
 
-### 興味のある領域
+## やりたいこと
+- [将来のキャリア目標や興味のあるポジション、プロジェクト]
+
+## メディア出版物
+- [秘密計算技術の活用](https://www.dlri.co.jp/report/ld/174276.html) - 2021.10.20, 第一生命経済研究所
+- [データ活用次の一手～差分プライバシーで攻めのプライバシー保護を～](https://www.dlri.co.jp/report/ld/232558.html) - 2023.01.30, 第一生命経済研究所
+
+## 興味のある領域
 - フロントエンド： TypeScript, React/Next.js, Prisma
-- プライバシー強化技術： 合成データ、差分プライバシー
+- プライバシー強化技術： 合成データ、差分プライバシー、秘密計算
 - 生成AI： GitHub Copilot
 
-### その他触ったことのある技術
+## その他触ったことのある技術
 - フロントエンド: React, Tailwind
 - ブロックチェーン技術: HyperLedger Fabric, Corda (Kotlin)
 - 検索エンジン: Elasticsearch
