@@ -58,7 +58,7 @@
    
 ### 趣味:バンドのホームページ開発
 - [OLDTIMER - Official](https://oldtimer-official.netlify.app/)
-  - 技術: Vue.js, microCMS, Netlify, Netlify Functions (Node.js, Bootstrap
+  - 技術: Vue.js, microCMS, Netlify, Netlify Functions (Node.js), Bootstrap
 
 ---
 
