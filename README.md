@@ -56,7 +56,7 @@
     - 60人月規模のプロジェクトのマネジメントを担当。
     - 技術: VB.Net, SQLServer
    
-### 趣味:バンドのホームページ開発
+### 個人開発:バンドのホームページ開発
 - [OLDTIMER - Official](https://oldtimer-official.netlify.app/)
   - 技術: Vue.js, microCMS, Netlify, Netlify Functions (Node.js), Bootstrap
 
