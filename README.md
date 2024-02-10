@@ -22,7 +22,7 @@
 
 ## 経歴
 
-### 副業:猟師向けSaaS開発企業（2020-10〜現在）
+### 副業:猟師向けSaaS開発企業（2020-6〜現在）
 - Web系エンジニア
   - 技術: Ruby, Ruby on Rails, JQuery, Bootstrap, PostgreSQL, Heroku,　AWS (S3)
 - 帳票・申請ワークフローの電子化:
